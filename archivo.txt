@@ -1,0 +1,1 @@
+Hola estoy escribiendo dentro del archivo txt desde el bash o.O
